@@ -32,6 +32,6 @@ The Form2 was only provide for Load data and reports.
 In order to ensure the solutions security,Form3 and Form4 was provided for the assign system.
 
 4.In addition to, the TreeClass.cs Programming with Generics which Derives the return value type of a function from the file nodes type. we choose the 3 level file 
-hierarchical structure. Traversing the file tree recursively, which the tree class defined by us is a tree node with three layers.
+hierarchical structure. Traversing the file tree recursively, which the tree class defined by us is a tree node with three layers， for more detail you can read "Get the file tree structure recursively.md"
 
   
